@@ -472,3 +472,55 @@ Things may not work well.
 [20:12:06] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@38e7264e[id=c3b41a38-fa89-3cd6-a2d1-01f51c8c2b64,name=Tiago,properties={},legacy=false] (/[::1]:60448) lost connection: Timed out
 [20:12:43] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@29a9ccf4[id=85581c1a-024e-389a-baa9-91d4cc9e0925,name=Samux33,properties={},legacy=false] (/[::1]:38684) lost connection: Timed out
 [20:12:52] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl]: com.mojang.authlib.GameProfile@71dc2005[id=85581c1a-024e-389a-baa9-91d4cc9e0925,name=Samux33,properties={},legacy=false] (/[::1]:45362) lost connection: Timed out
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending ToolHandleTypeManager to Tiago
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending SnowcapOvenFreezingManager to Tiago
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending HorizoniteForgeFuelManager to Tiago
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending AlchemyRecipeManager to Tiago
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalEntryManager to Tiago
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalSectionManager to Tiago
+[20:15:12] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalRequirementManager to Tiago
+[20:15:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tiago joined the game
+[20:15:12] [Server thread/INFO] [Jade]: Syncing config to Tiago (c3b41a38-fa89-3cd6-a2d1-01f51c8c2b64)
+[20:15:13] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tiago[/[::1]:56842] logged in with entity id 584 at ([PapuMundo]-6.5, 88.0, -62.5)
+[20:15:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tiago has made the advancement [Ice and Fire]
+[20:16:01] [Async Chat Thread - #1/INFO] [net.minecraft.server.MinecraftServer]: <Tiago> as
+[20:16:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tiago issued server command: /gamemode spectator
+[20:16:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tiago: Set own game mode to Spectator Mode]
+[20:16:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tiago issued server command: /gamemode creative
+[20:16:12] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Tiago: Set own game mode to Creative Mode]
+[20:16:47] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tiago lost connection: Timed out
+[20:16:47] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tiago left the game
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending ToolHandleTypeManager to Tiago
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending SnowcapOvenFreezingManager to Tiago
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending HorizoniteForgeFuelManager to Tiago
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending AlchemyRecipeManager to Tiago
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalEntryManager to Tiago
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalSectionManager to Tiago
+[20:17:37] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalRequirementManager to Tiago
+[20:17:37] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tiago joined the game
+[20:17:37] [Server thread/INFO] [Jade]: Syncing config to Tiago (c3b41a38-fa89-3cd6-a2d1-01f51c8c2b64)
+[20:17:37] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Tiago[/[::1]:52018] logged in with entity id 853 at ([PapuMundo]-6.5, 88.0, -62.5)
+[20:18:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Tiago lost connection: Timed out
+[20:18:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Tiago left the game
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending ToolHandleTypeManager to Samux33
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending SnowcapOvenFreezingManager to Samux33
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending HorizoniteForgeFuelManager to Samux33
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending AlchemyRecipeManager to Samux33
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalEntryManager to Samux33
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalSectionManager to Samux33
+[20:21:38] [Server thread/INFO] [ModdingLegacy/blue_skies]: Sending JournalRequirementManager to Samux33
+[20:21:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Samux33 joined the game
+[20:21:38] [Server thread/INFO] [Jade]: Syncing config to Samux33 (85581c1a-024e-389a-baa9-91d4cc9e0925)
+[20:21:38] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: Samux33[/[::1]:50768] logged in with entity id 970 at ([PapuMundo]-8.5, 73.0, -61.5)
+[20:21:38] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Samux33 has made the advancement [Ice and Fire]
+[20:22:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 issued server command: /gamemode creative
+[20:22:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Samux33: Set own game mode to Creative Mode]
+[20:22:20] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 issued server command: /tp @s 22 ~ -538
+[20:22:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Samux33: Teleported Samux33 to 22.500000, 98.526953, -537.500000]
+[20:23:06] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 issued server command: /locate structure str
+[20:23:10] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 issued server command: /locate structure minecraft:stronghold
+[20:23:11] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand]: Locating element minecraft:stronghold took 831 ms
+[20:23:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 issued server command: /tp @s 560 ~ -2432
+[20:23:22] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: [Samux33: Teleported Samux33 to 560.500000, 109.643202, -2431.500000]
+[20:23:22] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 moved too quickly! 0.0,-12.958075812160885,0.0
+[20:23:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: Samux33 issued server command: /tp @s -2111 ~ 560
